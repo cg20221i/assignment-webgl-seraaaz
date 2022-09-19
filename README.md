@@ -8,5 +8,4 @@ assignment-webgl-seraaaz created by GitHub Classroom
 |:---:            | :---: |
 |20               | AH |
 
-(https://user-images.githubusercontent.com/87944227/191096238-7af9c7a5-493e-4123-aa3a-7f4378e8a1f9.png))
-
+![Screen Shot 2022-09-20 at 02 04 46](https://user-images.githubusercontent.com/87944227/191096516-2c0a203b-6bea-4b61-81c5-f2a34c0954b2.png)
